@@ -18,3 +18,5 @@ Os CTAs usam o número confirmado +55 63 99939-6569. O formulário não grava ne
 As fotografias vêm do PDF de apresentação, com resolução limitada à disponível nesse material. Trocar por originais de maior resolução pode melhorar a nitidez em telas de alta densidade.
 
 A configuração `.openai/hosting.json` identifica o Sites privado destinado à revisão. Não alterar o ID ao atualizar o mesmo site.
+
+A fonte principal dos títulos é Athena Light, com a variante Light Italic para destaques, fornecida pelo usuário. Montserrat permanece nos textos e controles.
